@@ -1,4 +1,4 @@
-# Tulio Toledo Bigon - Desarrollador Web Full Stack y Estudiante de Ciencias Políticas
+# Tulio Toledo Bigon - Desarrollador Web- Apps -VideoGames Full Stack y Estudiante de Ciencias Políticas
 
 ## 🚀 Sobre Mí
 
