@@ -6,7 +6,7 @@
 
 ### Educación
 - 🎓 *Diplomado en gobierno y comunicación Política*: Con estudios avanzados en lic. en Ciencias Políticas y una perspectiva única que combina tecnología y ciencias sociales.
-- 📚 *Estudiante de Desarrollo de Aplicaciones Móviles y Videojuegos*: Ampliando mis habilidades técnicas en áreas de rápido crecimiento.
+- 📚 * Desarrollo de aplicaciones multiplataforma*: Ampliando mis habilidades técnicas en áreas de rápido crecimiento.
 
 ### Experiencia Técnica
 - 💻 *Desarrollo Web Full Stack*: Experiencia en el diseño y desarrollo de soluciones tecnológicas, con énfasis en aplicaciones móviles y videojuegos.
